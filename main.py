@@ -46,5 +46,5 @@ while not end_of_bid:
         end_of_bid = True
 
 
-print(f"The winner is {bidder_winner(all_bidders)}. Congratulation !")
+print(f"The winner is {bidder_winner(all_bidders)["name"]}. Congratulation !")
 
