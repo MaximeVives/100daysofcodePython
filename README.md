@@ -15,3 +15,4 @@
 - Day 13 : [Debugging  - No Project](https://github.com/MaximeVives/100dayscodingPython/tree/D13)
 - Day 14 : [Higher Lower Game](https://github.com/MaximeVives/100dayscodingPython/tree/D14)
 - Day 15 : [Coffee Machine](https://github.com/MaximeVives/100dayscodingPython/tree/D15)
+- Day 16 : [POO](https://github.com/MaximeVives/100dayscodingPython/tree/D16)
