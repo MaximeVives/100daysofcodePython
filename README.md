@@ -1,4 +1,4 @@
-# 100dayscodingPython
+# 100daysofcodePython
 
 - Day 1 : [Band Name Generator](https://github.com/MaximeVives/100dayscodingPython/tree/D1)
 - Day 2 : [Bill Spliter](https://github.com/MaximeVives/100dayscodingPython/tree/D2)
