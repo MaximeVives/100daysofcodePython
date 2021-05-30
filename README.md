@@ -18,3 +18,4 @@
 - Day 16 : [POO](https://github.com/MaximeVives/100dayscodingPython/tree/D16)
 - Day 17 : [The Quiz](https://github.com/MaximeVives/100dayscodingPython/tree/D17)
 - Day 18 : [The Hirst Painting](https://github.com/MaximeVives/100dayscodingPython/tree/D18)
+- Day 19 : [The Turtle Race](https://github.com/MaximeVives/100dayscodingPython/tree/D19)
