@@ -20,3 +20,6 @@
 - Day 18 : [The Hirst Painting](https://github.com/MaximeVives/100dayscodingPython/tree/D18)
 - Day 19 : [The Turtle Race](https://github.com/MaximeVives/100dayscodingPython/tree/D19)
 - Day 20 : [The snake part1](https://github.com/MaximeVives/100dayscodingPython/tree/D20)
+- Day 21 : [The snake part2](https://github.com/MaximeVives/100dayscodingPython/tree/D21)
+- Day 22 : [The Pong](https://github.com/MaximeVives/100dayscodingPython/tree/D22)
+- 
