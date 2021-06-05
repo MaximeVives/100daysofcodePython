@@ -1,4 +1,5 @@
 DISTANCE = 20
+
 from turtle import Turtle
 
 
@@ -12,10 +13,13 @@ class Snake:
             self.segments[ind].penup()
             self.segments[ind].forward(-(3 * DISTANCE) + (ind * DISTANCE))
             self.segments[ind].color(self.colors[ind])
+            self.move()
 
     def add_segment(self):
         new_segment = Turtle(shape="square")
+        new_segment.color("white")
         new_segment.penup()
+        new_segment.goto(self.segments[-1].position())
         self.segments.append(new_segment)
 
     def move(self):
@@ -25,4 +29,3 @@ class Snake:
 
             self.segments[seg].goto(new_x, new_y)
         self.segments[0].forward(DISTANCE)
-
