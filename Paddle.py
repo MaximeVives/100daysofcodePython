@@ -18,11 +18,9 @@ class Paddle(Turtle):
         self.showturtle()
 
     def move_top(self):
-        if not self.ycor() + 20 > 240.0:
+        if not self.ycor() > 220.0:
             self.forward(20)
-            print(f"position: [x = {self.xcor()}, y = {self.ycor()}]")
 
     def move_bottom(self):
-        if not self.ycor() - 20 < -240.0:
+        if not self.ycor() < -220.0:
             self.forward(-20)
-            print(f"position: [x = {self.xcor()}, y = {self.ycor()}]")
