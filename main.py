@@ -27,7 +27,7 @@ screen.onkey(fun=movements.down, key="Down")
 
 while game_is_on:
     screen.update()
-    time.sleep(0.1)
+    time.sleep(0.01)
 
     snake.move()
 
