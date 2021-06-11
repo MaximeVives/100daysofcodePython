@@ -22,4 +22,5 @@
 - Day 20 : [The snake part1](https://github.com/MaximeVives/100dayscodingPython/tree/D20)
 - Day 21 : [The snake part2](https://github.com/MaximeVives/100dayscodingPython/tree/D21)
 - Day 22 : [The Pong](https://github.com/MaximeVives/100dayscodingPython/tree/D22)
-- 
+- Day 23 : [The Turtle Crossing game](https://github.com/MaximeVives/100dayscodingPython/tree/D23)
+- Day 24 : [The mail merge project](https://github.com/MaximeVives/100dayscodingPython/tree/D24)
