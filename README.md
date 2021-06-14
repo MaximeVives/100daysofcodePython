@@ -26,7 +26,7 @@
 - Day 24 : [The mail merge project](https://github.com/MaximeVives/100dayscodingPython/tree/24)
 - Day 25 : [The US States Game](https://github.com/MaximeVives/100dayscodingPython/tree/25)
 - Day 26 : [Nato Alphabet Project](https://github.com/MaximeVives/100dayscodingPython/tree/26)
-- Day 27 : [Treasure Island](https://github.com/MaximeVives/100dayscodingPython/tree/27)
+- Day 27 : [Mile to Kilometer Converter](https://github.com/MaximeVives/100dayscodingPython/tree/27)
 - Day 28 : [Rock, Paper, Scissors](https://github.com/MaximeVives/100dayscodingPython/tree/28)
 - Day 29 : [Password Generator](https://github.com/MaximeVives/100dayscodingPython/tree/29)
 - Day 30 : [Python Functions - No Project](https://github.com/MaximeVives/100dayscodingPython/tree/30)
