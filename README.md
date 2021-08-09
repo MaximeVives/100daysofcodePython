@@ -30,7 +30,7 @@
 - Day 28 : [Pomodoro GUI application](https://github.com/MaximeVives/100dayscodingPython/tree/28)
 - Day 29 : [Password Generator](https://github.com/MaximeVives/100dayscodingPython/tree/29)
 - Day 30 : [Password Generator (v2)](https://github.com/MaximeVives/100dayscodingPython/tree/30)
-- Day 31 : [Hangman](https://github.com/MaximeVives/100dayscodingPython/tree/31)
+- Day 31 : [FlashCard App](https://github.com/MaximeVives/100dayscodingPython/tree/31)
 - Day 32 : [Cesar Cypher](https://github.com/MaximeVives/100dayscodingPython/tree/32)
 - Day 33 : [Blind Auction](https://github.com/MaximeVives/100dayscodingPython/tree/33)
 - Day 34 : [Calculator](https://github.com/MaximeVives/100dayscodingPython/tree/34)
